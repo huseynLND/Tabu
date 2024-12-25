@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Whosein\\Desktop\\Taboo-main\\FirstAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8054A1A7-D572-4FE8-99CB-6B2E8C62FDDF}|FirstAPI.csproj|c:\\users\\whosein\\desktop\\taboo-main\\firstapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8054A1A7-D572-4FE8-99CB-6B2E8C62FDDF}|FirstAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8054A1A7-D572-4FE8-99CB-6B2E8C62FDDF}|FirstAPI.csproj|c:\\users\\whosein\\desktop\\taboo-main\\firstapi\\controllers\\languagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8054A1A7-D572-4FE8-99CB-6B2E8C62FDDF}|FirstAPI.csproj|solutionrelative:controllers\\languagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8054A1A7-D572-4FE8-99CB-6B2E8C62FDDF}|FirstAPI.csproj|c:\\users\\whosein\\desktop\\taboo-main\\firstapi\\services\\implements\\languageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8054A1A7-D572-4FE8-99CB-6B2E8C62FDDF}|FirstAPI.csproj|solutionrelative:services\\implements\\languageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8054A1A7-D572-4FE8-99CB-6B2E8C62FDDF}|FirstAPI.csproj|c:\\users\\whosein\\desktop\\taboo-main\\firstapi\\services\\abstract\\ilanguageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8054A1A7-D572-4FE8-99CB-6B2E8C62FDDF}|FirstAPI.csproj|solutionrelative:services\\abstract\\ilanguageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8054A1A7-D572-4FE8-99CB-6B2E8C62FDDF}|FirstAPI.csproj|c:\\users\\whosein\\desktop\\taboo-main\\firstapi\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8054A1A7-D572-4FE8-99CB-6B2E8C62FDDF}|FirstAPI.csproj|solutionrelative:serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8054A1A7-D572-4FE8-99CB-6B2E8C62FDDF}|FirstAPI.csproj|c:\\users\\whosein\\desktop\\taboo-main\\firstapi\\profiles\\languageprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8054A1A7-D572-4FE8-99CB-6B2E8C62FDDF}|FirstAPI.csproj|solutionrelative:profiles\\languageprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8054A1A7-D572-4FE8-99CB-6B2E8C62FDDF}|FirstAPI.csproj|c:\\users\\whosein\\desktop\\taboo-main\\firstapi\\entities\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8054A1A7-D572-4FE8-99CB-6B2E8C62FDDF}|FirstAPI.csproj|solutionrelative:entities\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Whosein\\Desktop\\Taboo-main\\FirstAPI\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\Whosein\\Desktop\\Taboo-main\\FirstAPI\\ServiceRegistration.cs",
+              "RelativeToolTip": "ServiceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T17:52:25.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Language.cs",
+              "DocumentMoniker": "C:\\Users\\Whosein\\Desktop\\Taboo-main\\FirstAPI\\Entities\\Language.cs",
+              "RelativeDocumentMoniker": "Entities\\Language.cs",
+              "ToolTip": "C:\\Users\\Whosein\\Desktop\\Taboo-main\\FirstAPI\\Entities\\Language.cs",
+              "RelativeToolTip": "Entities\\Language.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T15:45:19.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LanguageProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Whosein\\Desktop\\Taboo-main\\FirstAPI\\Profiles\\LanguageProfile.cs",
+              "RelativeDocumentMoniker": "Profiles\\LanguageProfile.cs",
+              "ToolTip": "C:\\Users\\Whosein\\Desktop\\Taboo-main\\FirstAPI\\Profiles\\LanguageProfile.cs",
+              "RelativeToolTip": "Profiles\\LanguageProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T14:28:18.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LanguageService.cs",
+              "DocumentMoniker": "C:\\Users\\Whosein\\Desktop\\Taboo-main\\FirstAPI\\Services\\Implements\\LanguageService.cs",
+              "RelativeDocumentMoniker": "Services\\Implements\\LanguageService.cs",
+              "ToolTip": "C:\\Users\\Whosein\\Desktop\\Taboo-main\\FirstAPI\\Services\\Implements\\LanguageService.cs",
+              "RelativeToolTip": "Services\\Implements\\LanguageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T13:34:27.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ILanguageService.cs",
+              "DocumentMoniker": "C:\\Users\\Whosein\\Desktop\\Taboo-main\\FirstAPI\\Services\\Abstract\\ILanguageService.cs",
+              "RelativeDocumentMoniker": "Services\\Abstract\\ILanguageService.cs",
+              "ToolTip": "C:\\Users\\Whosein\\Desktop\\Taboo-main\\FirstAPI\\Services\\Abstract\\ILanguageService.cs",
+              "RelativeToolTip": "Services\\Abstract\\ILanguageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T13:14:09.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LanguagesController.cs",
+              "DocumentMoniker": "C:\\Users\\Whosein\\Desktop\\Taboo-main\\FirstAPI\\Controllers\\LanguagesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LanguagesController.cs",
+              "ToolTip": "C:\\Users\\Whosein\\Desktop\\Taboo-main\\FirstAPI\\Controllers\\LanguagesController.cs",
+              "RelativeToolTip": "Controllers\\LanguagesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T21:42:01.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Whosein\\Desktop\\Taboo-main\\FirstAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Whosein\\Desktop\\Taboo-main\\FirstAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAEwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T09:24:49.607Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
