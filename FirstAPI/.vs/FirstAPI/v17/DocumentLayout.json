@@ -1,41 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Whosein\\Desktop\\Taboo-main\\FirstAPI\\",
+  "WorkspaceRootPath": "C:\\Users\\I Novbe\\Tabu\\FirstAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8054A1A7-D572-4FE8-99CB-6B2E8C62FDDF}|FirstAPI.csproj|c:\\users\\whosein\\desktop\\taboo-main\\firstapi\\configurations\\gameconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8054A1A7-D572-4FE8-99CB-6B2E8C62FDDF}|FirstAPI.csproj|solutionrelative:configurations\\gameconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8054A1A7-D572-4FE8-99CB-6B2E8C62FDDF}|FirstAPI.csproj|c:\\users\\i novbe\\tabu\\firstapi\\entities\\word.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8054A1A7-D572-4FE8-99CB-6B2E8C62FDDF}|FirstAPI.csproj|solutionrelative:entities\\word.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8054A1A7-D572-4FE8-99CB-6B2E8C62FDDF}|FirstAPI.csproj|c:\\users\\whosein\\desktop\\taboo-main\\firstapi\\dal\\tabudbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8054A1A7-D572-4FE8-99CB-6B2E8C62FDDF}|FirstAPI.csproj|c:\\users\\i novbe\\tabu\\firstapi\\entities\\bannedword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8054A1A7-D572-4FE8-99CB-6B2E8C62FDDF}|FirstAPI.csproj|solutionrelative:entities\\bannedword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8054A1A7-D572-4FE8-99CB-6B2E8C62FDDF}|FirstAPI.csproj|c:\\users\\i novbe\\tabu\\firstapi\\dal\\tabudbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8054A1A7-D572-4FE8-99CB-6B2E8C62FDDF}|FirstAPI.csproj|solutionrelative:dal\\tabudbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8054A1A7-D572-4FE8-99CB-6B2E8C62FDDF}|FirstAPI.csproj|c:\\users\\whosein\\desktop\\taboo-main\\firstapi\\configurations\\languageconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8054A1A7-D572-4FE8-99CB-6B2E8C62FDDF}|FirstAPI.csproj|c:\\users\\i novbe\\tabu\\firstapi\\configurations\\languageconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8054A1A7-D572-4FE8-99CB-6B2E8C62FDDF}|FirstAPI.csproj|solutionrelative:configurations\\languageconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8054A1A7-D572-4FE8-99CB-6B2E8C62FDDF}|FirstAPI.csproj|c:\\users\\whosein\\desktop\\taboo-main\\firstapi\\entities\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8054A1A7-D572-4FE8-99CB-6B2E8C62FDDF}|FirstAPI.csproj|c:\\users\\i novbe\\tabu\\firstapi\\configurations\\gameconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8054A1A7-D572-4FE8-99CB-6B2E8C62FDDF}|FirstAPI.csproj|solutionrelative:configurations\\gameconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8054A1A7-D572-4FE8-99CB-6B2E8C62FDDF}|FirstAPI.csproj|c:\\users\\i novbe\\tabu\\firstapi\\entities\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8054A1A7-D572-4FE8-99CB-6B2E8C62FDDF}|FirstAPI.csproj|solutionrelative:entities\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8054A1A7-D572-4FE8-99CB-6B2E8C62FDDF}|FirstAPI.csproj|c:\\users\\whosein\\desktop\\taboo-main\\firstapi\\entities\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8054A1A7-D572-4FE8-99CB-6B2E8C62FDDF}|FirstAPI.csproj|c:\\users\\i novbe\\tabu\\firstapi\\entities\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8054A1A7-D572-4FE8-99CB-6B2E8C62FDDF}|FirstAPI.csproj|solutionrelative:entities\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8054A1A7-D572-4FE8-99CB-6B2E8C62FDDF}|FirstAPI.csproj|c:\\users\\whosein\\desktop\\taboo-main\\firstapi\\controllers\\languagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8054A1A7-D572-4FE8-99CB-6B2E8C62FDDF}|FirstAPI.csproj|c:\\users\\i novbe\\tabu\\firstapi\\controllers\\languagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8054A1A7-D572-4FE8-99CB-6B2E8C62FDDF}|FirstAPI.csproj|solutionrelative:controllers\\languagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8054A1A7-D572-4FE8-99CB-6B2E8C62FDDF}|FirstAPI.csproj|c:\\users\\whosein\\desktop\\taboo-main\\firstapi\\services\\implements\\languageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8054A1A7-D572-4FE8-99CB-6B2E8C62FDDF}|FirstAPI.csproj|c:\\users\\i novbe\\tabu\\firstapi\\services\\implements\\languageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8054A1A7-D572-4FE8-99CB-6B2E8C62FDDF}|FirstAPI.csproj|solutionrelative:services\\implements\\languageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8054A1A7-D572-4FE8-99CB-6B2E8C62FDDF}|FirstAPI.csproj|c:\\users\\whosein\\desktop\\taboo-main\\firstapi\\dtos\\languages\\languagegetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8054A1A7-D572-4FE8-99CB-6B2E8C62FDDF}|FirstAPI.csproj|c:\\users\\i novbe\\tabu\\firstapi\\dtos\\languages\\languagegetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8054A1A7-D572-4FE8-99CB-6B2E8C62FDDF}|FirstAPI.csproj|solutionrelative:dtos\\languages\\languagegetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8054A1A7-D572-4FE8-99CB-6B2E8C62FDDF}|FirstAPI.csproj|c:\\users\\whosein\\desktop\\taboo-main\\firstapi\\services\\abstract\\ilanguageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8054A1A7-D572-4FE8-99CB-6B2E8C62FDDF}|FirstAPI.csproj|c:\\users\\i novbe\\tabu\\firstapi\\services\\abstract\\ilanguageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8054A1A7-D572-4FE8-99CB-6B2E8C62FDDF}|FirstAPI.csproj|solutionrelative:services\\abstract\\ilanguageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -46,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,11 +62,37 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BannedWord.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Tabu\\FirstAPI\\Entities\\BannedWord.cs",
+              "RelativeDocumentMoniker": "Entities\\BannedWord.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Tabu\\FirstAPI\\Entities\\BannedWord.cs",
+              "RelativeToolTip": "Entities\\BannedWord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T06:31:22.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Word.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Tabu\\FirstAPI\\Entities\\Word.cs",
+              "RelativeDocumentMoniker": "Entities\\Word.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Tabu\\FirstAPI\\Entities\\Word.cs",
+              "RelativeToolTip": "Entities\\Word.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T06:27:58.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "GameConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Whosein\\Desktop\\Taboo-main\\FirstAPI\\Configurations\\GameConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Tabu\\FirstAPI\\Configurations\\GameConfiguration.cs",
               "RelativeDocumentMoniker": "Configurations\\GameConfiguration.cs",
-              "ToolTip": "C:\\Users\\Whosein\\Desktop\\Taboo-main\\FirstAPI\\Configurations\\GameConfiguration.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Tabu\\FirstAPI\\Configurations\\GameConfiguration.cs",
               "RelativeToolTip": "Configurations\\GameConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -67,24 +101,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "TabuDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Whosein\\Desktop\\Taboo-main\\FirstAPI\\DAL\\TabuDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Tabu\\FirstAPI\\DAL\\TabuDbContext.cs",
               "RelativeDocumentMoniker": "DAL\\TabuDbContext.cs",
-              "ToolTip": "C:\\Users\\Whosein\\Desktop\\Taboo-main\\FirstAPI\\DAL\\TabuDbContext.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Tabu\\FirstAPI\\DAL\\TabuDbContext.cs",
               "RelativeToolTip": "DAL\\TabuDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-25T00:50:36.533Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "LanguageConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Whosein\\Desktop\\Taboo-main\\FirstAPI\\Configurations\\LanguageConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Tabu\\FirstAPI\\Configurations\\LanguageConfiguration.cs",
               "RelativeDocumentMoniker": "Configurations\\LanguageConfiguration.cs",
-              "ToolTip": "C:\\Users\\Whosein\\Desktop\\Taboo-main\\FirstAPI\\Configurations\\LanguageConfiguration.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Tabu\\FirstAPI\\Configurations\\LanguageConfiguration.cs",
               "RelativeToolTip": "Configurations\\LanguageConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -93,81 +127,75 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Language.cs",
-              "DocumentMoniker": "C:\\Users\\Whosein\\Desktop\\Taboo-main\\FirstAPI\\Entities\\Language.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Tabu\\FirstAPI\\Entities\\Language.cs",
               "RelativeDocumentMoniker": "Entities\\Language.cs",
-              "ToolTip": "C:\\Users\\Whosein\\Desktop\\Taboo-main\\FirstAPI\\Entities\\Language.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Tabu\\FirstAPI\\Entities\\Language.cs",
               "RelativeToolTip": "Entities\\Language.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T00:43:27.434Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Game.cs",
-              "DocumentMoniker": "C:\\Users\\Whosein\\Desktop\\Taboo-main\\FirstAPI\\Entities\\Game.cs",
-              "RelativeDocumentMoniker": "Entities\\Game.cs",
-              "ToolTip": "C:\\Users\\Whosein\\Desktop\\Taboo-main\\FirstAPI\\Entities\\Game.cs",
-              "RelativeToolTip": "Entities\\Game.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T00:38:03.256Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-25T00:43:27.434Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "LanguagesController.cs",
-              "DocumentMoniker": "C:\\Users\\Whosein\\Desktop\\Taboo-main\\FirstAPI\\Controllers\\LanguagesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\LanguagesController.cs",
-              "ToolTip": "C:\\Users\\Whosein\\Desktop\\Taboo-main\\FirstAPI\\Controllers\\LanguagesController.cs",
-              "RelativeToolTip": "Controllers\\LanguagesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAyAAAAAAAAAA==",
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Tabu\\FirstAPI\\Entities\\Game.cs",
+              "RelativeDocumentMoniker": "Entities\\Game.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Tabu\\FirstAPI\\Entities\\Game.cs",
+              "RelativeToolTip": "Entities\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T21:04:52.228Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-25T00:38:03.256Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "LanguageGetDto.cs",
-              "DocumentMoniker": "C:\\Users\\Whosein\\Desktop\\Taboo-main\\FirstAPI\\DTOs\\Languages\\LanguageGetDto.cs",
-              "RelativeDocumentMoniker": "DTOs\\Languages\\LanguageGetDto.cs",
-              "ToolTip": "C:\\Users\\Whosein\\Desktop\\Taboo-main\\FirstAPI\\DTOs\\Languages\\LanguageGetDto.cs",
-              "RelativeToolTip": "DTOs\\Languages\\LanguageGetDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Title": "LanguagesController.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Tabu\\FirstAPI\\Controllers\\LanguagesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LanguagesController.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Tabu\\FirstAPI\\Controllers\\LanguagesController.cs",
+              "RelativeToolTip": "Controllers\\LanguagesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T21:01:32.608Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-24T21:04:52.228Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LanguageService.cs",
-              "DocumentMoniker": "C:\\Users\\Whosein\\Desktop\\Taboo-main\\FirstAPI\\Services\\Implements\\LanguageService.cs",
-              "RelativeDocumentMoniker": "Services\\Implements\\LanguageService.cs",
-              "ToolTip": "C:\\Users\\Whosein\\Desktop\\Taboo-main\\FirstAPI\\Services\\Implements\\LanguageService.cs",
-              "RelativeToolTip": "Services\\Implements\\LanguageService.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABUAAABDAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "LanguageGetDto.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Tabu\\FirstAPI\\DTOs\\Languages\\LanguageGetDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Languages\\LanguageGetDto.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Tabu\\FirstAPI\\DTOs\\Languages\\LanguageGetDto.cs",
+              "RelativeToolTip": "DTOs\\Languages\\LanguageGetDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T20:46:39.629Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-24T21:01:32.608Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "LanguageService.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Tabu\\FirstAPI\\Services\\Implements\\LanguageService.cs",
+              "RelativeDocumentMoniker": "Services\\Implements\\LanguageService.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Tabu\\FirstAPI\\Services\\Implements\\LanguageService.cs",
+              "RelativeToolTip": "Services\\Implements\\LanguageService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABUAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T20:46:39.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "ILanguageService.cs",
-              "DocumentMoniker": "C:\\Users\\Whosein\\Desktop\\Taboo-main\\FirstAPI\\Services\\Abstract\\ILanguageService.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Tabu\\FirstAPI\\Services\\Abstract\\ILanguageService.cs",
               "RelativeDocumentMoniker": "Services\\Abstract\\ILanguageService.cs",
-              "ToolTip": "C:\\Users\\Whosein\\Desktop\\Taboo-main\\FirstAPI\\Services\\Abstract\\ILanguageService.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Tabu\\FirstAPI\\Services\\Abstract\\ILanguageService.cs",
               "RelativeToolTip": "Services\\Abstract\\ILanguageService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T20:46:30.065Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-24T20:46:30.065Z"
             }
           ]
         }
